@@ -1,0 +1,343 @@
+Current Timestamp: 2018-03-30 04:23:43.203081
+{"created_at": "Tue Mar 20 20:31:45 +0000 2018", "favorite_count": 38, "hashtags": [], "id": 976194605791268865, "id_str": "976194605791268865", "lang": "en", "retweet_count": 24, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "What Facebook Could Learn from Wells Fargo's Woes | Breitbart https://t.co/OWoWMvjBrh", "urls": [{"expanded_url": "http://bit.ly/2udrYAX", "url": "https://t.co/OWoWMvjBrh"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2677, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2084, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 164, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-30 04:24:59.820573
+{"created_at": "Tue Mar 20 20:31:45 +0000 2018", "favorite_count": 38, "hashtags": [], "id": 976194605791268865, "id_str": "976194605791268865", "lang": "en", "retweet_count": 24, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "What Facebook Could Learn from Wells Fargo's Woes | Breitbart https://t.co/OWoWMvjBrh", "urls": [{"expanded_url": "http://bit.ly/2udrYAX", "url": "https://t.co/OWoWMvjBrh"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2677, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2084, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 164, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-30 04:32:01.313743
+{"created_at": "Tue Mar 20 20:31:45 +0000 2018", "favorite_count": 38, "hashtags": [], "id": 976194605791268865, "id_str": "976194605791268865", "lang": "en", "retweet_count": 24, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "What Facebook Could Learn from Wells Fargo's Woes | Breitbart https://t.co/OWoWMvjBrh", "urls": [{"expanded_url": "http://bit.ly/2udrYAX", "url": "https://t.co/OWoWMvjBrh"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2677, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2084, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 164, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-30 05:01:04.469068
+{"created_at": "Tue Mar 20 20:31:45 +0000 2018", "favorite_count": 38, "hashtags": [], "id": 976194605791268865, "id_str": "976194605791268865", "lang": "en", "retweet_count": 24, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "What Facebook Could Learn from Wells Fargo's Woes | Breitbart https://t.co/OWoWMvjBrh", "urls": [{"expanded_url": "http://bit.ly/2udrYAX", "url": "https://t.co/OWoWMvjBrh"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2677, "followers_count": 60583, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2084, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 164, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-31 02:35:02.819136
+{"created_at": "Tue Mar 20 20:31:45 +0000 2018", "favorite_count": 38, "hashtags": [], "id": 976194605791268865, "id_str": "976194605791268865", "lang": "en", "retweet_count": 24, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "What Facebook Could Learn from Wells Fargo's Woes | Breitbart https://t.co/OWoWMvjBrh", "urls": [{"expanded_url": "http://bit.ly/2udrYAX", "url": "https://t.co/OWoWMvjBrh"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2675, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2083, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 171, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-31 02:35:02.966063
+{"created_at": "Tue Mar 20 20:42:51 +0000 2018", "favorite_count": 5, "hashtags": [], "id": 976197398459535361, "id_str": "976197398459535361", "lang": "en", "retweet_count": 1, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "Mark Zuckerberg is making an epic mistake right now. What Facebook Could Learn from Wells Fargo's Woes | Breitbart\u2026 https://t.co/MJRU4epOQ0", "truncated": true, "urls": [{"expanded_url": "https://twitter.com/i/web/status/976197398459535361", "url": "https://t.co/MJRU4epOQ0"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2675, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2083, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 171, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-31 02:35:03.128984
+{"created_at": "Wed Mar 21 18:09:21 +0000 2018", "favorite_count": 2, "hashtags": [], "id": 976521157741547520, "id_str": "976521157741547520", "lang": "en", "retweet_count": 5, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "Federal Reserve Hikes Interest Rate Target, Signals More Hikes Ahead | Breitbart https://t.co/IpgY2K3HTR via @BreitbartNews", "urls": [{"expanded_url": "http://bit.ly/2DKLsMw", "url": "https://t.co/IpgY2K3HTR"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2675, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2083, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 171, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": [{"id": 457984599, "id_str": "457984599", "name": "Breitbart News", "screen_name": "BreitbartNews"}]}
+
+Current Timestamp: 2018-03-31 02:35:03.290056
+{"created_at": "Thu Mar 22 12:30:23 +0000 2018", "favorite_count": 3, "hashtags": [], "id": 976798242913619970, "id_str": "976798242913619970", "lang": "en", "retweet_count": 2, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "Yale Management Guru Jeffrey Sonnenfeld Says Mark Zuckerberg's Response Was 'Terrible' | Breitbart https://t.co/fzvDICKG3j", "urls": [{"expanded_url": "http://bit.ly/2HW5iHf", "url": "https://t.co/fzvDICKG3j"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2675, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2083, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 171, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-31 02:35:03.461830
+{"created_at": "Fri Mar 23 19:33:03 +0000 2018", "favorite_count": 1, "hashtags": [], "id": 977266998047641600, "id_str": "977266998047641600", "lang": "en", "retweet_count": 3, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "One reason the spending bill is so long is that there's a lot of weirdly specific stuff, like this $50K limit on ad\u2026 https://t.co/sWDeSa8Knu", "truncated": true, "urls": [{"expanded_url": "https://twitter.com/i/web/status/977266998047641600", "url": "https://t.co/sWDeSa8Knu"}], "user": {"created_at": "Wed Mar 21 21:19:14 +0000 2007", "description": "Breitbart Economics and Finance editor. Formerly: WSJ, DealBreaker, B.I., CNBC, and Wall Street lawyer.", "favourites_count": 2675, "followers_count": 60584, "friends_count": 5626, "id": 1797991, "id_str": "1797991", "lang": "en", "listed_count": 2083, "location": "Brooklyn, NY", "name": "John Carney", "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540634160113528832/nPWh6c01.jpeg", "profile_background_tile": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797991/1398262810", "profile_image_url": "http://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/829003251496415232/-3Rp2U8T_normal.jpg", "profile_link_color": "0F0F0F", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "E3E3E3", "profile_text_color": "403F40", "screen_name": "carney", "statuses_count": 171, "time_zone": "Eastern Time (US & Canada)", "url": "https://t.co/GS6PLaGwrQ", "utc_offset": -14400, "verified": true}, "user_mentions": []}
+
+Current Timestamp: 2018-03-31 18:36:53.434949
+Current Timestamp: 2018-03-31 18:37:04.277799
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:37:04.408250
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:37:04.536151
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:37:04.666740
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:37:04.807375
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:39:33.835903
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:39:33.962972
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:39:34.095271
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:39:34.233823
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 18:39:34.364627
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:24:04.466207
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:24:04.595911
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:24:04.729403
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:24:04.859305
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:24:04.995894
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:26:28.026199
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:26:28.177367
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:26:28.319805
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:26:28.471057
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:26:28.602656
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:38:39.068277
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:38:39.202322
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:38:39.341468
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:38:39.478380
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:38:39.606653
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:39:23.335020
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:39:23.453195
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:39:23.595957
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:39:23.730246
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:39:23.855982
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:41:17.201119
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:41:17.347432
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:41:17.488975
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:41:17.614002
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:41:17.760677
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:01.539746
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:01.678307
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:01.813764
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:02.155745
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:02.292267
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:20.339399
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:20.464651
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:20.592565
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:20.721137
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:44:20.854678
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:50:06.426216
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:50:06.564629
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:50:06.702562
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:50:06.831193
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:50:06.962558
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:53:38.446868
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:53:38.588436
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:53:38.721137
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:53:38.851434
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:53:38.988278
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:55:49.732495
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:55:49.867597
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:55:49.994028
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:55:50.125147
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:55:50.264042
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:27.306718
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:27.446698
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:27.575458
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:27.703539
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:27.853616
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:48.222583
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:48.359497
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:48.485871
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:48.610767
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:48.737695
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:58.515759
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:58.651713
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:58.792939
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:58.917858
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 19:58:59.042214
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:01:01.376692
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:01:01.574989
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:01:01.701492
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:01:01.818911
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:01:01.948537
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:08:46.060571
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:08:46.193569
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:08:46.376341
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:08:46.514096
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:08:46.637923
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:10:28.459722
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:10:28.588877
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:10:28.720591
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:10:28.852480
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:10:28.978316
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:33.443567
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:33.575755
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:33.706512
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:33.839042
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:33.977427
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:52.155353
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:52.284245
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:52.417796
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:52.548177
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:11:52.670523
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:13:45.142455
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:13:45.280441
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:13:45.423223
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:13:45.549699
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
+Current Timestamp: 2018-03-31 20:13:45.734396
+[{'code': 144, 'message': 'No status found with that ID.'}]
+
