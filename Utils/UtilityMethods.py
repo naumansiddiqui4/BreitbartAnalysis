@@ -6,10 +6,10 @@ Create Twitter Instance. All the fields can be collected from the developer site
 
 
 def create_twitter_instance():
-    api = twitter.Api(consumer_key='5Q3CFnvq02nKj6kI9gRpGNHXH',
-                      consumer_secret='4OBnuBjedjwZUZmtslwzzPmWxeQtN7LHUeYHf4jsqZjQkEyW4v',
-                      access_token_key='907341293717737473-for4ikiKhPAHxD54pnRqhJSPpr1QmNB',
-                      access_token_secret='jV6TplxXfCQOu8C8zArB2wzlwGisq2Y0kRHUtrvuKYQNr',
+    api = twitter.Api(consumer_key='xxxxxxxx',
+                      consumer_secret='xxxxxxx',
+                      access_token_key='xxxxxxx',
+                      access_token_secret='xxxxxxxx',
                       sleep_on_rate_limit=True)
     return api
 
