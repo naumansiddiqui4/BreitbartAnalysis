@@ -137,8 +137,9 @@ def find_deleted_tweet_pattern(screen_name):
                     int(list_file1_tweet_timestamp[index_temp])
         seconds, minutes, hours, days = convert_millis_to_time(time_diff)
         file_deleted_logs.write( str(list_same_mementos[i]) + "   " + str(list_same_mementos_count[i]) + "  " +
-                                 str(days) + "days " +
-                        str(hours) + " hours " + str(minutes) + "minutes " + str(seconds) + "seconds" + "\n")
+                                 str(days) + "days " + str(hours) + " hours " + str(minutes) + "minutes " +
+                                 str(seconds) + "seconds" + "\n")
+
 
 def write_tweets_to_csv(list_memento_timestamps, screen_name):
 

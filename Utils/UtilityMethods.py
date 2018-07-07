@@ -1,4 +1,5 @@
 import twitter
+import datetime
 '''
 Create Twitter Instance. All the fields can be collected from the developer site of Twitter
 '''
@@ -11,3 +12,9 @@ def create_twitter_instance():
                       access_token_secret='jV6TplxXfCQOu8C8zArB2wzlwGisq2Y0kRHUtrvuKYQNr',
                       sleep_on_rate_limit=True)
     return api
+
+
+def convert_memento_time_millis(memento_time):
+    memento_epoch_time = datetime.datetime.fromtimestamp(float(memento_time))
+    memento_epoch_time = memento_epoch_time.strftime('%Y/%m/%d')
+    return memento_epoch_time
